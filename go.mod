@@ -8,5 +8,5 @@ require (
 	github.com/go-sql-driver/mysql v1.5.0 // indirect
 	github.com/golang/protobuf v1.3.5
 	github.com/micro/go-micro/v2 v2.4.0
-	github.com/xiaobudongzhang/micro-basic v1.0.0
+	github.com/xiaobudongzhang/micro-basic v1.1.2
 )
