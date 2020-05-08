@@ -2,12 +2,13 @@ package main
 
 import (
 	"fmt"
+
 	"github.com/xiaobudongzhang/micro-basic/config"
 	"github.com/xiaobudongzhang/micro-user-srv/handler"
 	"github.com/xiaobudongzhang/micro-user-srv/model"
 	"github.com/xiaobudongzhang/micro-user-srv/subscriber"
 
-	basic "github.com/xiaobudongzhang/micro-basic"
+	basic "github.com/xiaobudongzhang/micro-basic/basic"
 
 	s "github.com/xiaobudongzhang/micro-user-srv/proto/user"
 
