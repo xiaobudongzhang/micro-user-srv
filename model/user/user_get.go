@@ -1,7 +1,7 @@
 package user
 
 import (
-	"github.com/xiaobudongzhang/micro-basic/db"
+	"github.com/xiaobudongzhang/micro-plugins/db"
 
 	proto "github.com/xiaobudongzhang/micro-user-srv/proto/user"
 
