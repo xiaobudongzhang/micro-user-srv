@@ -23,8 +23,11 @@ require (
 	github.com/golang/protobuf v1.3.5
 	github.com/micro-in-cn/tutorials/microservice-in-micro v0.0.0-20200510134214-a0f89cb675dc // indirect
 	github.com/micro/go-micro v1.18.0 // indirect
-	github.com/micro/go-micro/v2 v2.4.0
+	github.com/micro/go-micro/v2 v2.5.0
 	github.com/micro/go-plugins v1.5.1 // indirect
+	github.com/micro/go-plugins/wrapper/trace/opentracing/v2 v2.5.0 // indirect
+	github.com/uber/jaeger-client-go v2.23.1+incompatible // indirect
+	github.com/uber/jaeger-lib v2.2.0+incompatible // indirect
 	github.com/xiaobudongzhang/micro-basic v1.1.2
 	github.com/xiaobudongzhang/micro-plugins v0.0.0-00010101000000-000000000000
 )
