@@ -42,7 +42,7 @@ func main() {
 	// 使用etcd注册
 	micReg := etcd.NewRegistry(registryOptions)
 
-	t, io, err := tracer.NewTracer(cfg.Name, "0.0.0.0:6831")
+	t, io, err := tracer.NewTracer(cfg.Name, "")
 	if err != nil {
 		log.Fatal(err)
 	}
